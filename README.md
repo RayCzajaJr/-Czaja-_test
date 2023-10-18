@@ -12,4 +12,4 @@ just testing this out to see what happens when I type this
 
 ### Creator
 
-I like larval ecology, hooray
+I like larval ecology, yay!
